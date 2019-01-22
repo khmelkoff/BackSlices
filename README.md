@@ -1,2 +1,2 @@
 # BackSlices
-BackSlices Transformation Algorythm
+BackSlices Transformation Algorythm with simple LSTM model
